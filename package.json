@@ -1,0 +1,17 @@
+{
+  "name": "play-semantic-release",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kimromi/play-semantic-release.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kimromi/play-semantic-release/issues"
+  },
+  "homepage": "https://github.com/kimromi/play-semantic-release#readme"
+}
