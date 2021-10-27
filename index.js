@@ -1,1 +1,1 @@
-console.log('hello play-semantic-release!!!!!!!!')
+console.log('hello play-semantic-release!!!!!!!!!!!')
